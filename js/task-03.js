@@ -25,7 +25,6 @@ galleryList.insertAdjacentHTML("afterbegin", galleryListItem);
 
 galleryList.style = `
   display: flex;
-  align-items: space-evenly;
   justify-content:space-evenly;
   list-style-type: none;
   padding:0;
